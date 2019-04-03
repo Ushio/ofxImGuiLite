@@ -1,3 +1,5 @@
+Deprecated. No more maintenance.
+
 ### openframeworks 0.10.0 Lite Integration
 simple, easy to update imgui
 
